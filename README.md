@@ -20,7 +20,7 @@ make sure the below is already installed
 ## :question: How to run
 
 ```sh
-git clone https://github.com/rjravijoshi111/Card-Game.git
+git clone https://github.com/rjravijoshi111/Flip-Card-Game.git
 cd Card-Game
 ```
 
